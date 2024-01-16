@@ -3,11 +3,11 @@
 Practicing using the interpreter, printing text
 and variables, and indexing and slicing strings in Python.
 
-## Tests :heavy_check_mark:
+## Tests 
 
 * [tests](./tests): Folder of test files.
 
-## Function Prototypes :floppy_disk:
+## Function Prototypes 
 
 Prototypes for functions written in this project:
 
@@ -16,7 +16,7 @@ Prototypes for functions written in this project:
 | `10-check_cycle.c`         | `int check_cycle(listint_t *list);`   |
 | `102-magic_calculation.py` | `def magic_calculation(a, b):`        |
 
-## Tasks :page_with_curl:
+## Tasks 
 
 * **0. Run Python File**
   * [0-run](./0-run): Bash script that runs a Python script file saved
