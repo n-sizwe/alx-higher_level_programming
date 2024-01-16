@@ -1,11 +1,11 @@
 # Python - Hello, World
 
-In this project, I began practicing using the interpreter, printing text
+Practicing using the interpreter, printing text
 and variables, and indexing and slicing strings in Python.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files.
 
 ## Function Prototypes :floppy_disk:
 
